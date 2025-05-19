@@ -1,1 +1,1 @@
-Desenvolvimento de interface gráfica com Sycamore e Rust.
+Desenvolvimento de interface gráfica com Tauri e Rust.
